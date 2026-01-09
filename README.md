@@ -7,6 +7,7 @@ The project provides custom firmware for the SenseCAP Watcher that makes it beha
 Currently, the features include:
 - Being able to take pictures and save them to the SD card
 - A Flashlight
+- A Lack of AI Functionality
 - An idle animation
 
 This code might not be the cleanest as I barely comprehend the SenseCap Device Setup, but it runs and is stable on my unit.
